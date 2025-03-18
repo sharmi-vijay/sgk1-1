@@ -61,7 +61,7 @@ export default function OrderDetail () {
                                         <div className="col-4 col-lg-3 mt-4 mt-lg-0">
                                             <p>{item.quantity} Piece(s)</p>
                                         </div>
-                                    </div>
+                                    </div> 
                                 ))}
                                     
                             </div>
